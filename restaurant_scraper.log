@@ -1,0 +1,56 @@
+2017-11-04 20:09:02,619 - __main__ - INFO - Beginning search for location Springfield, MO
+2017-11-04 20:09:04,833 - __main__ - INFO - Gathering data for search result 0: Name: Big Whiskey's American Restaurant & Bar
+2017-11-04 20:09:05,150 - __main__ - INFO - Created restaurant object for Big Whiskey's American Restaurant & Bar
+2017-11-04 20:09:07,135 - __main__ - INFO - Trying to get menu from google for Big Whiskey's American Restaurant & Bar
+2017-11-04 20:09:07,135 - __main__ - INFO - Menu link located.
+2017-11-04 20:09:07,135 - __main__ - INFO - Gathered menu data from google for Big Whiskey's American Restaurant & Bar
+2017-11-04 20:09:08,247 - __main__ - INFO - Gathering data for MenuItem ['Wings, Wings, Wings'].
+2017-11-04 20:09:09,243 - __main__ - INFO - Gathering data for MenuItem ['Buffalo Chicken Wontons'].
+2017-11-04 20:09:10,620 - __main__ - INFO - Gathering data for MenuItem ['Southwest Egg Rolls'].
+2017-11-04 20:09:11,803 - __main__ - INFO - Gathering data for MenuItem ['Chicken Quesadilla'].
+2017-11-04 20:09:12,880 - __main__ - INFO - Gathering data for MenuItem ["Big W's Pretzel Bites"].
+2017-11-04 20:09:13,793 - __main__ - INFO - Gathering data for MenuItem ["Big Whiskey's Nachos"].
+2017-11-04 20:09:14,643 - __main__ - INFO - Gathering data for MenuItem ['BW American Sliders'].
+2017-11-04 20:09:16,027 - __main__ - INFO - Gathering data for MenuItem ['Loaded Fries'].
+2017-11-04 20:09:24,143 - __main__ - INFO - Gathering data for MenuItem ['Fried Pickles'].
+2017-11-04 20:09:25,405 - __main__ - INFO - Gathering data for MenuItem ['Boom Boom Shrimp'].
+2017-11-04 20:09:28,568 - __main__ - INFO - Match found.
+2017-11-04 20:09:48,980 - __main__ - INFO - Finished collecting pictures from Yelp.
+2017-11-04 20:09:48,988 - __main__ - INFO - Looking for picture for ['Wings, Wings, Wings'].
+2017-11-04 20:09:48,991 - __main__ - INFO - Looking for picture for ['Buffalo Chicken Wontons'].
+2017-11-04 20:09:48,992 - __main__ - INFO - Looking for picture for ['Southwest Egg Rolls'].
+2017-11-04 20:09:48,993 - __main__ - INFO - Looking for picture for ['Chicken Quesadilla'].
+2017-11-04 20:09:48,993 - __main__ - INFO - Looking for picture for ["Big W's Pretzel Bites"].
+2017-11-04 20:09:48,994 - __main__ - INFO - Looking for picture for ["Big Whiskey's Nachos"].
+2017-11-04 20:09:48,995 - __main__ - INFO - Looking for picture for ['BW American Sliders'].
+2017-11-04 20:09:48,996 - __main__ - INFO - Looking for picture for ['Loaded Fries'].
+2017-11-04 20:09:49,004 - __main__ - INFO - Looking for picture for ['Fried Pickles'].
+2017-11-04 20:09:49,006 - __main__ - INFO - Looking for picture for ['Boom Boom Shrimp'].
+2017-11-04 20:10:02,908 - __main__ - INFO - Gathering data for search result 1: Name: Alonna's Country Restaurant
+2017-11-04 20:10:03,381 - __main__ - INFO - Created restaurant object for Alonna's Country Restaurant
+2017-11-04 20:10:04,247 - __main__ - INFO - Trying to get menu from google for Alonna's Country Restaurant
+2017-11-04 20:10:04,248 - __main__ - INFO - Menu link located.
+2017-11-04 20:10:04,248 - __main__ - INFO - Gathered menu data from google for Alonna's Country Restaurant
+2017-11-04 20:10:04,691 - __main__ - INFO - Gathering data for MenuItem ['Royal Special'].
+2017-11-04 20:10:05,833 - __main__ - INFO - Gathering data for MenuItem ["Alonna's Hashbrowns"].
+2017-11-04 20:10:06,861 - __main__ - INFO - Gathering data for MenuItem ['Pancake'].
+2017-11-04 20:10:07,925 - __main__ - INFO - Gathering data for MenuItem ['Texas French Toast'].
+2017-11-04 20:10:09,809 - __main__ - INFO - Gathering data for MenuItem ['Breakfast sandwich'].
+2017-11-04 20:10:10,973 - __main__ - INFO - Gathering data for MenuItem ['Builed Your Own Omelet'].
+2017-11-04 20:10:13,352 - __main__ - INFO - Match found.
+2017-11-04 20:10:26,488 - __main__ - INFO - Finished collecting pictures from Yelp.
+2017-11-04 20:10:26,489 - __main__ - INFO - Looking for picture for ['Royal Special'].
+2017-11-04 20:10:26,489 - __main__ - INFO - Looking for picture for ["Alonna's Hashbrowns"].
+2017-11-04 20:10:26,489 - __main__ - INFO - Looking for picture for ['Pancake'].
+2017-11-04 20:10:26,489 - __main__ - INFO - Looking for picture for ['Texas French Toast'].
+2017-11-04 20:10:26,489 - __main__ - INFO - Looking for picture for ['Breakfast sandwich'].
+2017-11-04 20:10:26,490 - __main__ - INFO - Looking for picture for ['Builed Your Own Omelet'].
+2017-11-04 20:10:37,604 - __main__ - INFO - Gathering data for search result 2: Name: Maria's Mexican Restaurant
+2017-11-04 20:10:38,162 - __main__ - INFO - Created restaurant object for Maria's Mexican Restaurant
+2017-11-04 20:10:39,041 - __main__ - INFO - Trying to get menu from google for Maria's Mexican Restaurant
+2017-11-04 20:10:46,627 - __main__ - INFO - Gathered menu data from google for Maria's Mexican Restaurant
+2017-11-04 20:10:48,268 - __main__ - INFO - Match found.
+2017-11-04 20:11:09,105 - __main__ - INFO - Finished collecting pictures from Yelp.
+2017-11-04 20:11:27,226 - __main__ - INFO - Gathering data for search result 3: Name: La Hacienda Mexican Restaurant
+2017-11-04 20:11:27,576 - __main__ - INFO - Created restaurant object for La Hacienda Mexican Restaurant
+2017-11-04 20:11:28,448 - __main__ - INFO - Trying to get menu from google for La Hacienda Mexican Restaurant
